@@ -2,88 +2,91 @@
 layout: cv
 title: Laura Martinez Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Laura Martinez
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
+------------------------------------------------------------------------------------------------------------
+993-425-5507 | medintsu1@gmail.com | [LinkedIn](https://www.linkedin.com/in/laura-martinez-6736881b3/)                        
+------------------------------------------------------------------------------------------------------------
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University - Idaho__
 
-- Full academic scholarship with 4.0 GPA
+**Rexburg, Idaho**
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Graduation: April 2023**
 
-- 4.0 Major GPA
+_Bachelor of Science in GeoBusiness and Data Analytics_
 
 
-## Related Experience
+## WORK HISTORY
 
-### Internships
+### Spanish Tutor
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2017-August 2019`
+__Eastern Arizona College__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Reinforce lessons presented by teachers by reviewing material with students one-on-one or in small groups.
+- Prepare lesson plans, identifying learning difficulties, and assist students in foreign language understanding.
+-	Provide instruction and managing classroom environments in absence of the regular teacher.
+-	Grade homework and class projects.
 
-### Data Science Lead
+### Dorm Supervisor Assistant 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August 2019-December 2019`
+__Eastern Arizona College__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Enforce rules and ensure adherence to the established norms and regulations such as quiet hour, study breaks, dorm sanitation, dorm visitation and outings.
+-	Maintain paperwork related to the dorm and the students therein accurately and offer information as required to school staff. (Maintain confidentiality of school and student information).
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Statistical Data Officer 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2020-May 2020`
+__National Institute of Statistics and Geography (INEGI)__
 
-### Data Science Consulting Team
+- In charge of gathering statistical information and geographical information related to the economically active population, unemployment rate, net participation rate and sub-employed population.
+- Responsible for the management of regional data collection and reporting activities in field operations.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Fast Food Restaurant Manager 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`January 2021-August 2021`
+__Red Onion__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Ensuring incoming staff complies with company policy.
+- Training staff to follow restaurant procedures.
+-	Maintaining safety and food quality standards.
+-	Keeping customers happy and handling complaints.
+-	Organizing schedules.
+-	Keeping track of employees’ hours.
+-	Estimate consumption, forecast requirements, and maintain inventory.
+-	Manage restaurant supplies.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Public Safety Despatcher 
 
+`April 2022 - Present`
+__Brigham Young University - Idaho__
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Processes emergency and non-emergency calls received via phone and radio while performing administrative support work.
+- Dispatches police units by radio based on priority, policy, and procedure.
+- Operated computer screens simultaneously, (Map screens, Phone line screens, unit screen, and PC screen for searches).
+- Provide guidance to campus constituents in prevention and response strategies regarding risk management.
 
 
+
+## Skills
+
+- Communication skills: Customer support, Email management, Giving/Accepting feedback.
+- Management/Supervisory Skills: Delegating tasks, Goal setting, Organization, Priorization.
+- Interpersonal skills: Problem-Solving, Willingness to learn, Teamwork / Collaboration.
+- Proficiency in Microsoft Office programs: Word, Excel, PowerPoint.
+- Programming Skills: Python, R Studio.
+- Bilingual: English & Spanish.
+- Technical Skills: SQL.
+- Basic Knowledge on GIS
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
