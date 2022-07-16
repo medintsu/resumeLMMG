@@ -20,7 +20,7 @@ __Brigham Young University - Idaho__
 _Bachelor of Science in GeoBusiness and Data Analytics_
 
 
-## WORK HISTORY
+### Work History
 
 ### Spanish Tutor
 
