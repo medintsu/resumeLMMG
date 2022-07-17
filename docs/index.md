@@ -62,16 +62,6 @@ __Red Onion__
 -	Estimate consumption, forecast requirements, and maintain inventory.
 -	Manage restaurant supplies.
 
-### Public Safety Despatcher 
-
-`April 2022 - Present`
-__Brigham Young University - Idaho__
-
-- Processes emergency and non-emergency calls received via phone and radio while performing administrative support work.
-- Dispatches police units by radio based on priority, policy, and procedure.
-- Operated computer screens simultaneously, (Map screens, Phone line screens, unit screen, and PC screen for searches).
-- Provide guidance to campus constituents in prevention and response strategies regarding risk management.
-
 
 
 ## Skills
