@@ -1,25 +1,4 @@
----
-layout: cv
-title: Laura Martinez Brigham Young's Resume
----
-# Laura Martinez
----
-layout: cv
-title: Laura Martinez Brigham Young's Resume
----
-# Laura Martinez
----
-layout: cv
-title: Laura Martinez Brigham Young's Resume
----
-# Laura Martinez
----
-layout: cv
-title: Laura Martinez Brigham Young's Resume
----
-# Laura Martinez
-#
-#
+
 ---
 layout: cv
 title: Laura Martinez Brigham Young's Resume
